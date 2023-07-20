@@ -9,5 +9,4 @@ public class AfundometroApplication {
     public static void main(String[] args) {
         SpringApplication.run(AfundometroApplication.class, args);
     }
-
 }
